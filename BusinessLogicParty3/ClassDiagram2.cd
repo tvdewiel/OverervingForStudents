@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BusinessLogicParty3.DinnerParty">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAQAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAIAAAAA=</HashCode>
+      <FileName>DinnerParty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogicParty3.Party">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAIAAAEAAEAAQBAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Party.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BusinessLogicParty3.BirthdayParty">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAAAAAEAAEFAAAAAAAAAAACAAAAEAAAAAAAAA=</HashCode>
+      <FileName>BirthdayParty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
